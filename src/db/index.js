@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-const {DB_NAME} = "../constants.js"
+import {DB_NAME} from "../constants.js"
 
 
 
